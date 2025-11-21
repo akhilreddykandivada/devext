@@ -1,1 +1,1 @@
-console.log(it is a script file);
+console.log("it is a script file");
